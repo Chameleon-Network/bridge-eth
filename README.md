@@ -1,12 +1,12 @@
-# **Incognito bridge-eth Network Topology**
+# **Chameleon bridge-eth Network Topology**
 
-This guide will help you set up and run the **Incognito bridge-eth**, a new network topology designed to accelerate P2P communications within the Incognito chain network.
+This guide will help you set up and run the **Chameleon bridge-eth**, a new network topology designed to accelerate P2P communications within the Chameleon Network.
 
 ---
 
 ## 🚀 **Introduction**
 
-The **bridge-eth** implements a trustless two-way bridge between **Incognito** and **Ethereum**, allowing users to send and receive ETH & ERC20 tokens privately.
+The **bridge-eth** implements a trustless two-way bridge between **Chameleon** and **Ethereum**, allowing users to send and receive ETH & ERC20 tokens privately.
 
 ---
 
@@ -21,7 +21,7 @@ Follow these steps to set up and run the `bridge-eth` network topology:
 Clone the `mainnet` repository from GitHub:
 
 ```bash
-git clone https://github.com/VinikaAnthwal/mainnet.git
+git clone https://github.com/chameleon-network/mainnet.git
 ```
 
 ---
